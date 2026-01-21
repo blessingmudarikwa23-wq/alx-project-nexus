@@ -1,6 +1,5 @@
 # 🚀 ALX Project Nexus
 
-> A complete, beginner-friendly, step-by-step documentation of my journey through the **ProDev Frontend Engineering Program**.
 
 ---
 
@@ -16,12 +15,6 @@ It documents:
 - How I solved them
 - How frontend and backend systems work together
 
-It is written in a:
-- ✅ Beginner-friendly way  
-- ✅ Step-by-step format  
-- ✅ App-by-app learning style  
-- ✅ Real-world engineering approach  
-
 ---
 
 ## 🎓 2. About The ProDev Frontend Engineering Program
@@ -36,13 +29,13 @@ The ProDev Frontend Engineering Program trains developers to:
 
 ---
 
-## 🧭 3. My Learning Journey (Step-by-Step, App-by-App)
+## 🧭 3. My Learning Journey 
 
 ---
 
 # 🥉 PHASE 1: Foundations
 
-## ✅ Step 1: Git & GitHub (The Engineering Workflow)
+## ✅ Step 1: Git & GitHub 
 
 📌 What I learned:
 - How to create repositories
