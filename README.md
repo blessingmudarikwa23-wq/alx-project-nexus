@@ -189,6 +189,7 @@ The ProDev Frontend Engineering Program trains developers to:
 # 🤝 7. Collaboration
 
 ## 👥 Who I Work With:
+- My_Bestfriend_Reseanne_Rampou
 - ProDev Frontend Learners
 - ProDev Backend Learners
 
