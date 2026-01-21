@@ -209,6 +209,9 @@ This repository represents my **full journey from beginner to confident frontend
 > "Make it work. Make it right. Make it scalable."
 
 ---
+Author and Date 
+
+Blessing Mudarikwa 21/01/26
 
 🚀 **ALX ProDev Frontend Engineering — Project Nexus**
 
